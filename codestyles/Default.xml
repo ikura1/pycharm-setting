@@ -1,0 +1,8 @@
+<code_scheme name="Default" version="173">
+  <option name="ALIGN_MULTILINE_PARAMETERS_IN_CALLS" value="true" />
+  <Python>
+    <option name="NEW_LINE_AFTER_COLON" value="true" />
+    <option name="USE_CONTINUATION_INDENT_FOR_ARGUMENTS" value="true" />
+    <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
+  </Python>
+</code_scheme>
