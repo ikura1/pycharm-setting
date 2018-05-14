@@ -4,4 +4,8 @@
     <keyboard-shortcut first-keystroke="shift back_space" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift alt 5" />
+    <keyboard-shortcut first-keystroke="ctrl c" second-keystroke="r" />
+  </action>
 </keymap>
