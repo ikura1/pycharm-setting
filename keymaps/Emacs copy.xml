@@ -1,6 +1,5 @@
 <keymap version="1" name="Emacs copy" parent="Emacs">
-  <action id="CheckinProject">
-    <keyboard-shortcut first-keystroke="ctrl k" />
+  <action id="CheckinFiles">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="g" />
   </action>
   <action id="EditorBackSpace">
