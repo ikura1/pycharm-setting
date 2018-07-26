@@ -41,6 +41,7 @@
     <keyboard-shortcut first-keystroke="escape" second-keystroke="comma" />
     <keyboard-shortcut first-keystroke="escape" second-keystroke="shift less" />
   </action>
+  <action id="FileChooser.GotoDesktop" />
   <action id="InsertLiveTemplate">
     <keyboard-shortcut first-keystroke="ctrl alt j" />
   </action>
