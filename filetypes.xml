@@ -14,6 +14,7 @@
       <mapping ext="vw" type="DBN-SQL" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="python" type="Python" />
     </extensionMap>
