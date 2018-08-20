@@ -22,8 +22,12 @@
           <option name="url" value="https://ikuda@bitbucket.org/gladcube/gs-cms-batch.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ikura1/pullrequest-chatwork.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/spaia" />
+    <option name="cloneParentDir" value="$USER_HOME$/git" />
   </component>
 </application>
