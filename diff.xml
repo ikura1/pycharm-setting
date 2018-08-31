@@ -20,4 +20,11 @@
       </entry>
     </option>
   </component>
+  <component name="TextDiffSettings">
+    <option name="SHARED_SETTINGS">
+      <SharedSettings>
+        <option name="CONTEXT_RANGE" value="2" />
+      </SharedSettings>
+    </option>
+  </component>
 </application>
